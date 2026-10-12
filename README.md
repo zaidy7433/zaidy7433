@@ -1,73 +1,124 @@
-👋 Hey, I'm Zaid Bhakhrani!
+👨‍💻 ZAID BHAKHRANI
 
-<h3 align="center">💻 Aspiring Front-End Developer | 🎨 Creative Web Designer</h3><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;I+Build+Creative+Websites;Learning+HTML+%26+CSS;Turning+Ideas+Into+Web+Designs" alt="Typing animation"/>
+<h3 align="center">🚀 Aspiring Front-End Developer | Creative Web Designer</h3><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Beautiful+Websites;HTML+%7C+CSS+%7C+JavaScript;Learning+Something+New+Every+Day" alt="Animated introduction"/>
 </p><p align="center">
   <a href="https://github.com/zaidy7433">
-    <img src="https://img.shields.io/badge/GitHub-zaidy7433-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-zaidy7433-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-00C2FF?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend development"/>
+  <img src="https://img.shields.io/badge/Developer-In%20Progress-00D9FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Developer"/>
+  <img src="https://komarev.com/ghpvc/?username=zaidy7433&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>---
 
-🚀   ABOUT ME
+🌌   WHO AM I?
 
-🎯 I'm a beginner web developer passionate about creating beautiful and user-friendly websites.
+«"Turning ideas into beautiful digital experiences, one line of code at a time."»
 
-- 🌱 Currently learning HTML & CSS
-- 💻 Practicing website layouts, navigation bars, cards, and forms
-- ✨ Exploring CSS animations and modern color themes
-- 🛠️ Building projects to improve my coding skills
-- 🚀 Working towards becoming a professional web developer
+Hey there! I'm Zaid Bhakhrani, an aspiring front-end developer who enjoys creating modern, attractive, and user-friendly websites.
+
+- 💻 I build websites using HTML and CSS.
+- ⚡ I'm learning JavaScript to make websites interactive.
+- 🎨 I enjoy animations, creative layouts, and modern color themes.
+- 🌱 I'm continuously improving my coding and problem-solving skills.
+- 🎯 My goal is to become a professional web developer.
 
 ---
 
-🧰   MY TECH TOOLKIT
+⚡   MY TECH TOOLKIT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="My technology skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub and VS Code"/>
 </p><p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
 </p>---
 
-🌟   FEATURED PROJECTS
+🚀   MY PROJECT SHOWCASE
 
-🚀 Project| 🔗 Live Website
-🏠 Dream Home Website| "Explore" (https://zaidy7433.github.io/build_dream-website/)
-🏭 Industry Website| "Explore" (https://zaidy7433.github.io/industry_website/)
-▶️ YouTube Clone| "Explore" (https://zaidy7433.github.io/youtube-clone/)
-🧭 CSS Navbar| "Explore" (https://zaidy7433.github.io/css-navbar/)
-🍔 Food Website| "Explore" (https://zaidy7433.github.io/Food-website/)
-💪 Gym Website| "Explore" (https://zaidy7433.github.io/GYM-WEBSITE/)
-🎨 Photon Website| "Explore" (https://zaidy7433.github.io/photon-website/)
-🃏 CSS Cards| "Explore" (https://zaidy7433.github.io/css-cards/)
-📝 HTML Forms| "Explore" (https://zaidy7433.github.io/html-forms/)
-📊 HTML Tables| "Explore" (https://zaidy7433.github.io/html-tables/)
+🏠 Dream Home Website
+
+A creative website focused on beautiful homes, modern layouts, and attractive visual styling.
+
+Tech: HTML • CSS
+
+🔗 "Explore Live Website →" (https://zaidy7433.github.io/build_dream-website/)
+
+🏭 Industry Website
+
+An industry-themed website inspired by professional business website designs.
+
+Tech: HTML • CSS • Animations
+
+🔗 "Explore Live Website →" (https://zaidy7433.github.io/industry_website/)
+
+▶️ YouTube Clone
+
+A practice project recreating elements of the YouTube desktop interface.
+
+Tech: HTML • CSS
+
+🔗 "Explore Live Website →" (https://zaidy7433.github.io/youtube-clone/)
+
+🧭 CSS Navbar
+
+A stylish navigation bar featuring modern colors, spacing, and hover effects.
+
+Tech: HTML • CSS
+
+🔗 "Explore Live Website →" (https://zaidy7433.github.io/css-navbar/)
+
+🍔 Food Website
+
+A food-themed website created to practice web layouts and visual design.
+
+Tech: HTML • CSS
+
+🔗 "Explore Live Website →" (https://zaidy7433.github.io/Food-website/)
+
+💪 Gym Website
+
+A fitness-themed website built as a front-end practice project.
+
+Tech: HTML • CSS
+
+🔗 "Explore Live Website →" (https://zaidy7433.github.io/GYM-WEBSITE/)
+
+🎨 More Projects
+
+Project| Live Demo
+✨ Photon Website| "View Website" (https://zaidy7433.github.io/photon-website/)
+🃏 CSS Cards| "View Website" (https://zaidy7433.github.io/css-cards/)
+📝 HTML Forms| "View Website" (https://zaidy7433.github.io/html-forms/)
+📊 HTML Tables| "View Website" (https://zaidy7433.github.io/html-tables/)
 
 <p align="center">
   <a href="https://github.com/zaidy7433?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-View%20Projects-00C2FF?style=for-the-badge&logo=github" alt="Explore all repositories"/>
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore all projects"/>
   </a>
 </p>---
 
-📊   GITHUB ANALYTICS
+📊   GITHUB DASHBOARD
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zaidy7433&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidy7433&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zaidy7433&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+</p><p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidy7433&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p><p align="center">
   <img src="https://streak-stats.demolab.com?user=zaidy7433&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>---
 
-🎯   MY GOALS
+🎯   WHAT I'M WORKING TOWARDS
 
-- 📚 Master HTML,CSS and JavaScript 
-- 📱 Learn responsive web design
-- ⚡ Improve animations and layouts
-- 💻 Learning more things 
-- 🌍 Build more creative websites
+- [x] Learn the fundamentals of HTML.
+- [x] Practice CSS layouts and website styling.
+- [ ] Improve JavaScript fundamentals.
+- [ ] Build interactive websites.
+- [ ] Master responsive web design.
+- [ ] Explore modern front-end frameworks.
 
 ---
 
@@ -75,10 +126,12 @@
 
 <p align="center">
   <a href="https://github.com/zaidy7433">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
   </a>
 </p><p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+  💬 <b>Always learning. Always building. Always improving.</b>
 </p><p align="center">
-  <i>"Dream it. Code it. Build it. Improve it."</i>
+  ⭐ Thanks for visiting my profile — feel free to explore my projects!
+</p><p align="center">
+  <i>Designed with 💙 by Zaid Bhakhrani</i>
 </p>
