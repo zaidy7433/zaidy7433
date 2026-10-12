@@ -63,10 +63,10 @@
 
 🎯   MY GOALS
 
-- 📚 Master HTML and CSS
+- 📚 Master HTML,CSS and JavaScript 
 - 📱 Learn responsive web design
 - ⚡ Improve animations and layouts
-- 💻 Learn JavaScript next
+- 💻 Learning more things 
 - 🌍 Build more creative websites
 
 ---
