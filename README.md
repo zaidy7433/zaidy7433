@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/GitHub-zaidy7433-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/Developer-In%20Progress-00D9FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Developer"/>
-  <img src="https://komarev.com/ghpvc/?username=zaidy7433&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>---
 
 🌌   WHO AM I?
